@@ -6,7 +6,7 @@
 - Subsidiary is my Photo and Video polishing.
 - Check out our Youtube Channel:[Surajita's Creations](https://www.youtube.com/channel/UCVSUrrpas1belTDN6QyxfuA)
 - Reach me out via [@geeky_auro](https://www.instagram.com/invites/contact/?i=1caziwbzk5oad&utm_content=kj7d2mz)
-- 💞️ I’m looking to collaborate with my projects and make it more playfull ...
+- 💞️ I’m looking to collaborate with my projects to improve and make it more playfull ...
 
 
 <!---
