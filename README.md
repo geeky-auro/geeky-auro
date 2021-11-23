@@ -43,7 +43,7 @@
 
 
 ## Here's my first project:
-[<img align="left" alt="auro | gameapp" width="70px" src="https://play-lh.googleusercontent.com/RbBcyjDiqCSMP7lk2SmsBu3FKGX7r8K_z7MfjAGJF40l9rYI0MQA7mNnxFthrk-nP_8=s180-rw" />][androidapp]
+[<img align="left" alt="auro | gameapp" width="200px" src="https://play-lh.googleusercontent.com/RbBcyjDiqCSMP7lk2SmsBu3FKGX7r8K_z7MfjAGJF40l9rYI0MQA7mNnxFthrk-nP_8=s180-rw" />][androidapp]
 
 
 [devprofile]: https://play.google.com/store/apps/dev?id=8184469226033279259
