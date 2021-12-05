@@ -1,12 +1,16 @@
 ### Hey there, I'm Auro 👋 
 
 
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+
 ## I'm a Student, Avid Learner,Self-Taught Programmer, and a Tech Enthusiast toooo...!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Help people to solve their problems
 - ⚡ Fun fact: I love to watch movies and play games
+
+
 
 ## Connect with me:
 
@@ -41,12 +45,23 @@
 <br />
 <br />
 
+<br/>
+
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=geeky-auro&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geeky-auro&theme=buefy&layout=compact" />
+</a>
+
+<br/>
+
 ### Developer Profile:
 [<img align="center" alt="auro | devprofile" width="90px" src="https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/64/000000/external-developer-coding-kiranshastry-lineal-color-kiranshastry.png" />][devprofile]
 
 
 ## Here's my first project:
 [<img align="left" alt="auro | gameapp" width="200px" src="https://play-lh.googleusercontent.com/RbBcyjDiqCSMP7lk2SmsBu3FKGX7r8K_z7MfjAGJF40l9rYI0MQA7mNnxFthrk-nP_8=s180-rw" />][androidapp]
+
+<a href="mailto:aurosaswat@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-aurosaswat@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
 
 [devprofile]: https://play.google.com/store/apps/dev?id=8184469226033279259
