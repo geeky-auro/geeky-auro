@@ -59,12 +59,12 @@
 
 <br/>
 
-### Developer Profile:
-[<img width="150px" align="center" alt="auro | devprofile" width="90px" src="https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/64/000000/external-developer-coding-kiranshastry-lineal-color-kiranshastry.png" />][devprofile]
+### Android Developer Profile:
+[<img width="120px" align="center" alt="auro | devprofile" width="90px" src="https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/64/000000/external-developer-coding-kiranshastry-lineal-color-kiranshastry.png" />][devprofile]
 
 <br/>
 
-### Download My Games and Have some fun :)
+### Download My PC Games Collection and Have some fun :)
 
 <a href="https://drive.google.com/drive/u/0/folders/1K1FdNbEu9-_wy8vn9sE768VojXqu6Fnp"><img src="https://img.icons8.com/external-wanicon-lineal-color-wanicon/50/000000/external-games-home-electronic-wanicon-lineal-color-wanicon.png"/></a>
 <br/>
