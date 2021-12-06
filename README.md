@@ -15,9 +15,18 @@
 ## Connect with me:
 
 [<img align="left" alt="auro | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<a href="https://t.me/The_impatientCat"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-white?style=flat-circle&logo=telegram"></a>
 [<img align="left" alt="auro | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<a href="https://www.instagram.com/the_impatientcat.pie/"><img alt="Instagram" src="https://img.shields.io/badge/instagram-white?style=flat-circle&logo=instagram"></a>
 [<img align="left" alt="auro | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+<a href="https://www.youtube.com/channel/UCVSUrrpas1belTDN6QyxfuA/featured"><img alt="Telegram" src="https://img.shields.io/badge/Youtube-Surajitas%20Creations-red"></a>
 [<img align="left" alt="auro | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
+<a href="https://www.linkedin.com/in/auro-saswat-raj-9bba80224"><img alt="Instagram" src="https://img.shields.io/badge/linkedin-red?style=flat-circle&logo=linkedin"></a>
+<a href="mailto:aurosaswat@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-aurosaswat@gmail.com-blue?style=flat-square&logo=gmail"></a>
+
+
+
+
 
 
 <br />
@@ -61,7 +70,7 @@
 ## Here's my first project:
 [<img align="left" alt="auro | gameapp" width="200px" src="https://play-lh.googleusercontent.com/RbBcyjDiqCSMP7lk2SmsBu3FKGX7r8K_z7MfjAGJF40l9rYI0MQA7mNnxFthrk-nP_8=s180-rw" />][androidapp]
 
-<a href="mailto:aurosaswat@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-aurosaswat@gmail.com-blue?style=flat-square&logo=gmail"></a>
+
 
 
 [devprofile]: https://play.google.com/store/apps/dev?id=8184469226033279259
