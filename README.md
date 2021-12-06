@@ -24,12 +24,8 @@
 <a href="https://www.linkedin.com/in/auro-saswat-raj-9bba80224"><img alt="Instagram" src="https://img.shields.io/badge/linkedin-red?style=flat-circle&logo=linkedin"></a>
 <a href="mailto:aurosaswat@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-aurosaswat@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
-
-
-
-
-
-<br />
+<br/>
+<br/>
 
 
 
@@ -64,11 +60,24 @@
 <br/>
 
 ### Developer Profile:
-[<img align="center" alt="auro | devprofile" width="90px" src="https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/64/000000/external-developer-coding-kiranshastry-lineal-color-kiranshastry.png" />][devprofile]
+[<img width="150px" align="center" alt="auro | devprofile" width="90px" src="https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/64/000000/external-developer-coding-kiranshastry-lineal-color-kiranshastry.png" />][devprofile]
+
+<br/>
+
+### Download My Games and Have some fun :)
+
+<a href="https://drive.google.com/drive/u/0/folders/1K1FdNbEu9-_wy8vn9sE768VojXqu6Fnp"><img src="https://img.icons8.com/external-wanicon-lineal-color-wanicon/50/000000/external-games-home-electronic-wanicon-lineal-color-wanicon.png"/></a>
+<br/>
+
+
 
 
 ## Here's my first project:
 [<img align="left" alt="auro | gameapp" width="200px" src="https://play-lh.googleusercontent.com/RbBcyjDiqCSMP7lk2SmsBu3FKGX7r8K_z7MfjAGJF40l9rYI0MQA7mNnxFthrk-nP_8=s180-rw" />][androidapp]
+
+<br/>
+<br/>
+
 
 
 
