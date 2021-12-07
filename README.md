@@ -52,9 +52,9 @@
 
 <br/>
 
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=geeky-auro&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geeky-auro&theme=buefy&layout=compact" />
+<a href="https://github.com/geeky-auro">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=geeky-auro&theme=great-gatsby&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geeky-auro&theme=great-gatsby&layout=compact" />
 </a>
 
 <br/>
