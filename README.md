@@ -14,15 +14,13 @@
 
 ## Connect with me:
 
-[<img align="left" alt="auro | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<a href="https://t.me/The_impatientCat"><img alt="Telegram" src="https://img.shields.io/badge/The_impatientCat-white?style=flat-circle&logo=telegram"></a>
-[<img align="left" alt="auro | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="auro | LinkedIn" width="40px" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-linkedin-social-media-justicon-lineal-color-justicon.png" />][linkedin]
+[<img align="left" alt="auro | Instagram" width="40px" src="https://img.icons8.com/color/64/000000/instagram-new.png" />][instagram]
 <a href="https://www.instagram.com/the_impatientcat.pie/"><img alt="Instagram" src="https://img.shields.io/badge/the_impatientcat.pie-black?style=flat-circle&logo=instagram"></a>
-[<img align="left" alt="auro | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-<a href="https://www.youtube.com/channel/UCVSUrrpas1belTDN6QyxfuA/featured"><img alt="Telegram" src="https://img.shields.io/badge/Youtube-Surajitas%20Creations-red"></a>
-[<img align="left" alt="auro | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
-
-<a href="mailto:aurosaswat@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-aurosaswat@gmail.com-blue?style=flat-square&logo=gmail"></a>
+[<img align="left" width="40px" alt="auro | YouTube" width="22px" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-youtube-social-media-justicon-lineal-color-justicon.png" />][youtube]
+<a href="https://www.youtube.com/channel/UCVSUrrpas1belTDN6QyxfuA/featured"><img alt="Youtube" src="https://img.shields.io/badge/Youtube-Surajitas%20Creations-red?style=plastic&logo=Youtube"></a>
+[<img align="left" alt="auro | YouTube"  src="https://img.shields.io/badge/Linkedin-Auro%20Saswat%20Raj-3498db?style=plastic&logo=Linkedin" />][linkedin]
+<a href="mailto:aurosaswat@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-aurosaswat@gmail.com-blue?style=plastic&logo=Gmail"></a>
 
 <br/>
 <br/>
@@ -52,10 +50,15 @@
 
 <br/>
 
+
+
 <a href="https://github.com/geeky-auro">
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=geeky-auro&theme=great-gatsby&show_icons=true" />
+</a>
+<a href="https://github.com/geeky-auro">
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geeky-auro&theme=great-gatsby&layout=compact" />
 </a>
+
 
 <br/>
 
