@@ -1,7 +1,6 @@
-### Hey there, I'm Auro 👋 
+### Hey there, I'm Auro 
 
-
-<img align="right" alt="GIF" src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" />
+<img align="right" alt="Let's Code" src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" />
 
 ## I'm a Student, Avid Learner,Self-Taught Programmer, and a Tech Enthusiast toooo...!!
 
