@@ -62,7 +62,8 @@
 <br/>
 
 ### Android Developer Profile:
-[<img width="120px" align="center" alt="auro | devprofile" width="90px" src="https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/64/000000/external-developer-coding-kiranshastry-lineal-color-kiranshastry.png" />][devprofile]
+[<img align="center" alt="auro | devprofile" src="https://img.icons8.com/external-soft-fill-juicy-fish/120/000000/external-male-coding-and-development-soft-fill-soft-fill-juicy-fish.png" />][devprofile]
+
 
 <br/>
 
