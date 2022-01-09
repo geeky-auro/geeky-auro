@@ -5,9 +5,9 @@
 ## I'm a Student, Avid Learner,Self-Taught Programmer, and a Tech Enthusiast toooo...!!
 
 - 🌱 I’m currently learning everything 🤣
+- 🧐 I Like To Solve The Real World Problems
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Help people to solve their problems
-- ⚡ Fun fact: I love to watch movies and play games
+- ⚡ Fun fact: I love to read Tech-article,Newsletter,etc
 
 
 
