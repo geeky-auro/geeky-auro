@@ -57,23 +57,16 @@
 <a href="https://github.com/geeky-auro">
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geeky-auro&theme=great-gatsby&layout=compact" />
 </a>
-
-
 <br/>
+</br>
+<i>Random dev joke for you!</i><br>
+<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 
 ### Android Developer Profile:
 [<img align="center" alt="auro | devprofile" src="https://img.icons8.com/external-soft-fill-juicy-fish/120/000000/external-male-coding-and-development-soft-fill-soft-fill-juicy-fish.png" />][devprofile]
 
 
 <br/>
-
-### Download My PC Games Collection and Have some fun :)
-
-<a href="https://drive.google.com/drive/u/0/folders/1K1FdNbEu9-_wy8vn9sE768VojXqu6Fnp"><img src="https://img.icons8.com/external-wanicon-lineal-color-wanicon/50/000000/external-games-home-electronic-wanicon-lineal-color-wanicon.png"/></a>
-<br/>
-
-
-
 
 ## Here's my first project:
 [<img align="left" alt="auro | gameapp" width="200px" src="https://play-lh.googleusercontent.com/RbBcyjDiqCSMP7lk2SmsBu3FKGX7r8K_z7MfjAGJF40l9rYI0MQA7mNnxFthrk-nP_8=s180-rw" />][androidapp]
