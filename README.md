@@ -4,6 +4,7 @@
 
 ## I'm a Student, Avid Learner,Self-Taught Programmer, and a Tech Enthusiast toooo...!!
 
+- 💫 I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️
 - 🌱 I’m currently learning everything 🤣
 - 🧐 I Like To Solve The Real World Problems
 - 👯 I’m looking to collaborate with other content creators
