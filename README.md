@@ -15,12 +15,12 @@
 ## Connect with me:
 
 [<img align="left" alt="auro | LinkedIn" width="40px" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-linkedin-social-media-justicon-lineal-color-justicon.png" />][linkedin]
-[<img align="left" alt="auro | Instagram" width="40px" src="https://img.icons8.com/color/64/000000/instagram-new.png" />][instagram]
-<a href="https://www.instagram.com/the_impatientcat.pie/"><img alt="Instagram" src="https://img.shields.io/badge/the_impatientcat.pie-black?style=flat-circle&logo=instagram"></a>
 [<img align="left" width="40px" alt="auro | YouTube" width="22px" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-youtube-social-media-justicon-lineal-color-justicon.png" />][youtube]
+[<img align="left" width="40px" alt="auro | YouTube" width="22px" src="https://img.icons8.com/ios-filled/150/000000/medium-logo.png" />][medium]
 <a href="https://www.youtube.com/channel/UCVSUrrpas1belTDN6QyxfuA/featured"><img alt="Youtube" src="https://img.shields.io/badge/Youtube-Surajitas%20Creations-red?style=plastic&logo=Youtube"></a>
-[<img align="left" alt="auro | YouTube"  src="https://img.shields.io/badge/Linkedin-Auro%20Saswat%20Raj-3498db?style=plastic&logo=Linkedin" />][linkedin]
+[<img align="left" alt="auro | linkedin"  src="https://img.shields.io/badge/Linkedin-Auro%20Saswat%20Raj-3498db?style=plastic&logo=Linkedin" />][linkedin]
 <a href="mailto:aurosaswat@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-aurosaswat@gmail.com-blue?style=plastic&logo=Gmail"></a>
+[<img align="left" alt="auro | linkedin"  src="https://img.shields.io/badge/Medium-aurosaswatraj-000000?style=plastic&logo=Medium" />][medium]
 
 <br/>
 <br/>
@@ -85,3 +85,4 @@
 [linkedin]: https://www.linkedin.com/in/auro-saswat-raj-9bba80224
 [androidapp]: https://play.google.com/store/apps/details?id=com.AuroSaswatRaj.noughtsandcrosses
 [telegram]: https://t.me/The_impatientCat
+[medium]: https://medium.com/@aurosaswatraj
