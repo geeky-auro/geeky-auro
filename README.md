@@ -59,7 +59,19 @@
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geeky-auro&theme=great-gatsby&layout=compact" />
 </a>
 <br/>
+<br/>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=geeky-auro&theme=great-gatsby)](https://github.com/geeky-auro)
+
+<br/>
+
+[![Auro Saswat Raj's github activity graph](https://activity-graph.herokuapp.com/graph?username=geeky-auro&theme=react-dark)](https://github.com/geeky-auro)
+<br/>
 </br>
+
+
+
+
 <i>Random dev joke for you!</i><br>
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 
