@@ -53,7 +53,7 @@
 
 
 <a href="https://github.com/geeky-auro">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=geeky-auro&theme=great-gatsby&show_icons=true" />
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=geeky-auro&count_private=true&theme=great-gatsby&show_icons=true" />
 </a>
 <a href="https://github.com/geeky-auro">
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geeky-auro&theme=great-gatsby&layout=compact" />
