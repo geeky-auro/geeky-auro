@@ -41,7 +41,7 @@ Watch my contributions get eaten by a snake 🐍
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 😂 <i>Random dev joke for you!</i><br>
-<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
 
 <!-- 
 ### 😂Random Dev Meme
