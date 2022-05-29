@@ -1,4 +1,4 @@
-### Hey there, I'm Auro 🙋‍♂️ 
+## Hey there, I'm Auro ♂️
 
 <img align="center" alt="Let's Code" src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" />
 
@@ -30,6 +30,10 @@
 
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=geeky-auro&theme=juicyfresh&no-frame=true&no-bg=true&margin-w=4)
+
+Watch my contributions get eaten by a snake 🐍
+---
+<img alt="My Snake"  align="center" src="https://github.com/geeky-auro/geeky-auro/blob/main/github-contribution-grid-snake.svg" />
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
