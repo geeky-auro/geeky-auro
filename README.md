@@ -23,10 +23,12 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=geeky-auro&theme=merko&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=geeky-auro&theme=merko&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-<!-- <br/>
-[![Auro Saswat Raj's github activity graph](https://activity-graph.herokuapp.com/graph?username=geeky-auro&theme=react-dark)](https://github.com/geeky-auro)
 <br/>
-</br> -->
+
+[![Auro Saswat Raj's github activity graph](https://activity-graph.herokuapp.com/graph?username=geeky-auro&theme=xcode)](https://github.com/geeky-auro)
+
+<br/>
+</br>
 
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=geeky-auro&theme=juicyfresh&no-frame=true&no-bg=true&margin-w=4)
