@@ -1,13 +1,13 @@
 ## Hey there, I'm Auro ♂️
 
-<img align="center" alt="Let's Code" src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" />
+<img align="center" alt="Let's Code" src="https://github.com/geeky-auro/geeky-auro/blob/main/ttf.gif" />
 
 # 💫About Me :
-💫 I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️ <br>
-🌱 I’m currently learning everything 🤣 <br>
-🧐 I Like To Solve The Real World Problems <br>
-👯 I’m looking to collaborate with other content creators <br>
-⚡ Fun fact: I love to read Tech-article, Newsletter, etc. 
+**💫** &nbsp; I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️ <br>
+**🌱** &nbsp; I’m currently learning everything 🤣 <br>
+**🧐** &nbsp; I Like To Solve The Real World Problems <br>
+**👯** &nbsp; I’m looking to collaborate with other content creators <br>
+**⚡** &nbsp; Fun fact: I love to read Tech-article, Newsletter, etc. 
 
 
 
