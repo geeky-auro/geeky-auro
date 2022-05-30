@@ -1,6 +1,6 @@
 ## Hey there, I'm Auro ♂️
 
-<img align="center" alt="Let's Code" src="https://github.com/geeky-auro/geeky-auro/blob/main/ttf.gif" />
+<img align="center" alt="Let's Code" src="https://github.com/geeky-auro/geeky-auro/blob/main/itsauro.gif" />
 
 # 💫About Me :
 **💫** &nbsp; I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️ <br>
