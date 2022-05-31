@@ -1,17 +1,22 @@
 ## Hey there, I'm Auro ♂️
-
-<img align="center" alt="Let's Code" src="https://github.com/geeky-auro/geeky-auro/blob/main/itsauro.gif" />
-
-# 💫About Me :
-**💫** &nbsp; I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️ <br>
-**🌱** &nbsp; I’m currently learning everything 🤣 <br>
-**🧐** &nbsp; I Like To Solve The Real World Problems <br>
-**👯** &nbsp; I’m looking to collaborate with other content creators <br>
-**⚡** &nbsp; Fun fact: I love to read Tech-article, Newsletter, etc. 
+![Green Technical Profile](https://github.com/geeky-auro/geeky-auro/blob/main/Green%20Geometric%20Technical%20Profile.png)
 
 
 
-## 🌐Socials
+## 👨🏼‍💻 &nbsp;About Me :
+<img align="right" border="5" width="400" height="220" alt="Let's Code" src="https://github.com/geeky-auro/geeky-auro/blob/main/itsauro.gif" />
+
+💫 &nbsp; I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️\
+🌱 &nbsp; I’m currently learning everything 🤣\
+🧐 &nbsp; I Like To Solve The Real World Problems\
+👯 &nbsp; I’m looking to collaborate with other content creators\
+⚡ &nbsp; Fun fact: I love to read Tech-article, Newsletter, etc. 
+
+
+<br>
+<br>
+
+## 🌐&nbsp;Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/auro-saswat-raj-9bba80224/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@aurosaswatraj) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCVSUrrpas1belTDN6QyxfuA)
 
 <a href="mailto:aurosaswat@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-aurosaswat@gmail.com-blue?style=plastic&logo=Gmail"></a>
