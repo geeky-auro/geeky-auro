@@ -40,6 +40,8 @@ I am currently pursuing my Bachelor of Technology in Computer Science Engineerin
 <br/>
 </br>
 
+[![@geekyauro7020's Holopin board](https://holopin.me/geekyauro7020)](https://holopin.io/@geekyauro7020)
+
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=geeky-auro&theme=juicyfresh&no-frame=true&no-bg=true&margin-w=4)
 
