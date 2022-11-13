@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://slackmojis.com/emojis/48327-hello_sign/download" width="55px"> Ciao, I'm Auro <img src="https://slackmojis.com/emojis/26811-male/download" width="40px"> </h1> <br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F1FF00&background=FFFFFF00&width=435&lines=Ciao%F0%9F%91%8B%2C+I+am+Auro......)](https://git.io/typing-svg)
 
 ![Green Technical Profile](https://github.com/geeky-auro/geeky-auro/blob/main/Green%20Geometric%20Technical%20Profile.png)
 
