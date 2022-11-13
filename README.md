@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F1FF00&background=FFFFFF00&width=435&lines=Ciao%F0%9F%91%8B%2C+I+am+Auro......)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Georgia&weight=600&size=34&pause=1000&color=F1FF00&background=FFFFFF00&center=true&vCenter=true&width=439&lines=Ciao%F0%9F%91%8B%2C+I+am+Auro......)](https://git.io/typing-svg)
 
 ![Green Technical Profile](https://github.com/geeky-auro/geeky-auro/blob/main/Green%20Geometric%20Technical%20Profile.png)
 
