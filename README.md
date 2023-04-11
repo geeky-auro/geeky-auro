@@ -2,19 +2,17 @@
 
 ![Green Technical Profile](https://github.com/geeky-auro/geeky-auro/blob/main/Green%20Geometric%20Technical%20Profile.png)
 
-I am currently pursuing my Bachelor of Technology in Computer Science Engineering from **Kalinga Institute of Industrial Technology** , Bhubaneswar, Odisha.
+Good day to you, esteemed colleague! I have the pleasure of introducing myself as Auro, at your service. But don't let my formal tone fool you - I'm also an expert in dad jokes and have a black belt in puns. Let's have some fun while we get to work, shall we?
 
 
 
 <h2 align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1643514255/2240/programmer.gif?1643514255" width="30px"> &nbsp;About Me : </h2>
 <img align="right" border="5" width="400" height="220" alt="Let's Code" src="https://github.com/geeky-auro/geeky-auro/blob/main/itsauro.gif" />
-
-💫 &nbsp; I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️\
-🌱 &nbsp; I’m currently learning everything 🤣\
-🧐 &nbsp; I Like To Solve The Real World Problems\
-👯 &nbsp; I’m looking to collaborate with other content creators\
-⚡ &nbsp; Fun fact: I love to read Tech-article, Newsletter, etc. 
-
+💫 &nbsp; I have a crush on tech stacks and can't stop exploring new ones 💻 I build cool stuff with them 🛠️ because I'm basically a magician! <br>
+🌱 &nbsp; Learning is my middle name and laughing is my game 🤣 <br>
+🧐 &nbsp; I like to solve problems, but only if they're real-world problems. Fictional problems don't pay the bills, you know? <br>
+👯 &nbsp; Looking for a partner in crime... er, coding! Let's create some content that'll blow people's socks off! <br>
+⚡ &nbsp; Did I mention I'm a tech-article and newsletter fanatic? That's right, I read 'em all. And yes, I do have a life... it just happens to be a very nerdy one. 🤓 <br>
 
 <br>
 <br>
