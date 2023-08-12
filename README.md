@@ -5,7 +5,7 @@
 Good day to you, esteemed colleague! I have the pleasure of introducing myself as Auro, at your service. But don't let my formal tone fool you - I'm also an expert in dad jokes and have a black belt in puns. Let's have some fun while we get to work, shall we?
 
 
-
+<br>
 <h2 align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1643514255/2240/programmer.gif?1643514255" width="30px"> &nbsp;About Me : </h2>
 <img align="right" border="5" width="400" height="220" alt="Let's Code" src="https://github.com/geeky-auro/geeky-auro/blob/main/itsauro.gif" />
 💫 &nbsp; I have a crush on tech stacks and can't stop exploring new ones 💻 I build cool stuff with them 🛠️ because I'm basically a magician! <br>
