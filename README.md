@@ -1,6 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Georgia&weight=600&size=34&pause=1000&color=F1FF00&background=FFFFFF00&center=true&vCenter=true&width=439&lines=Ciao%F0%9F%91%8B%2C+I+am+Auro......)](https://git.io/typing-svg)
 
-![Green Technical Profile](https://github.com/geeky-auro/geeky-auro/blob/main/Green%20Geometric%20Technical%20Profile.png)
+![peakpx (1)](https://github.com/geeky-auro/geeky-auro/assets/83534307/180a35b0-8114-46f1-a356-aec1c258ee35)
+
 
 Good day to you, esteemed colleague! I have the pleasure of introducing myself as Auro, at your service. But don't let my formal tone fool you - I'm also an expert in dad jokes and have a black belt in puns. Let's have some fun while we get to work, shall we?
 
