@@ -34,7 +34,6 @@ Good day to you, esteemed colleague! I have the pleasure of introducing myself a
 
 <br/>
 
-[![Auro Saswat Raj's github activity graph](https://activity-graph.herokuapp.com/graph?username=geeky-auro&theme=xcode)](https://github.com/geeky-auro)
 
 <br/>
 </br>
